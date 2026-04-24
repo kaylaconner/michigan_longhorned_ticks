@@ -8,7 +8,7 @@
 
 `scripts`: This directory contains all bash scripts used to process data for this project
 `data`: This directory contains all the _processed_ data associated with this project
-    _Note:_ Raw data is accessible through the NCBI Sequence Read Archive (SRA)
+    _Note:_ Raw data is accessible through the NCBI Sequence Read Archive (SRA) BioProject PRJNA1457432
   - `abv`: All processed data from taxonomic classification against the all bacterial and viral index
   - `vir`: all processed data from taxonomic classification agianst the viral only index
 `ref`: This directory contains the centrifuge inspect files (containing a list of all represented genomes) associated with the indexes used for taxonomic classification in this study
